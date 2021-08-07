@@ -4,9 +4,9 @@
 * Android Banking System which stores all successful and failed transaction done by user.
 * SQLite is used for Storage.
 
-## Screenshots!
+## Related Screenshots!
 
-### Design Layout 
+### App Flow
 <img src="https://github.com/anjali1361/Banking-Application/blob/main/Real%20Time%20App%20Images/App%20Flow.png">
 
 ----------------------------------------
@@ -21,13 +21,18 @@
 
 ------------------------------------------
 
-### Users Data
+### Users Details
 <img src="https://github.com/anjali1361/Banking-Application/blob/main/Real%20Time%20App%20Images/UserDetail.jpeg" width ="250px" height ="450px">
 
 ------------------------------------------
 
 ### Transfer Amount
 <img src="https://github.com/anjali1361/Banking-Application/blob/main/Real%20Time%20App%20Images/Transfer_Money_Dialog.jpeg" width ="250px" height ="450px"> <img src="https://github.com/anjali1361/Banking-Application/blob/main/Real%20Time%20App%20Images/EnteredAmountVerification.jpeg" width ="250px" height ="450px">   
+
+------------------------------------------
+
+### Updated Users List After Sending Amount
+<img src="https://github.com/anjali1361/Banking-Application/blob/main/Real%20Time%20App%20Images/Updated_User_List_AfterSendingAmount.jpeg" width ="250px" height ="450px">
 
 ------------------------------------------
 
