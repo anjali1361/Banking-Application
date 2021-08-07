@@ -31,13 +31,13 @@
 
 ------------------------------------------
 
-### Updated Users List After Sending Amount
-<img src="https://github.com/anjali1361/Banking-Application/blob/main/Real%20Time%20App%20Images/Updated_User_List_AfterSendingAmount.jpeg" width ="250px" height ="450px">
+### Select User To Transfer Money
+<img src="https://github.com/anjali1361/Banking-Application/blob/main/Real%20Time%20App%20Images/SelectUserList.jpeg" width ="250px" height ="450px">
 
 ------------------------------------------
 
-### Select User To Transfer Money
-<img src="https://github.com/anjali1361/Banking-Application/blob/main/Real%20Time%20App%20Images/SelectUserList.jpeg" width ="250px" height ="450px">
+### Updated Users List After Sending Amount
+<img src="https://github.com/anjali1361/Banking-Application/blob/main/Real%20Time%20App%20Images/Updated_User_List_AfterSendingAmount.jpeg" width ="250px" height ="450px">
 
 ------------------------------------------
 
