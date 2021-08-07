@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="all_users_width">300dp</dimen>
+    <dimen name="all_users_height">56dp</dimen>
+    <dimen name="item_height">70dp</dimen>
+
+    <dimen name="big_image_width">362dp</dimen>
+    <dimen name="big_image_height">296dp</dimen>
+
+    <dimen name="user_detail_bg_height">500dp</dimen>
+    <dimen name="user_detail_white_bg_width">350dp</dimen>
+    <dimen name="user_detail_white_bg_height">250dp</dimen>
+</resources>

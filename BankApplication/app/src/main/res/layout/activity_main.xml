@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.MainActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <include
+            android:id="@+id/include2"
+            layout="@layout/toolbar" />
+
+        <ImageView
+            android:id="@+id/bank_logo"
+            android:layout_width="@dimen/big_image_width"
+            android:layout_height="@dimen/big_image_height"
+            android:layout_marginLeft="46dp"
+            android:layout_marginTop="147dp"
+            android:layout_marginRight="46dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/bank_logo"
+            android:contentDescription="@string/app_name" />
+
+        <Button
+            android:id="@+id/all_users"
+            android:layout_width="@dimen/all_users_width"
+            android:layout_height="@dimen/all_users_height"
+            android:layout_marginTop="67dp"
+            android:background="@drawable/round_button"
+            android:text="@string/all_users"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/bank_logo" />
+
+        <Button
+            android:id="@+id/all_transaction"
+            android:layout_width="@dimen/all_users_width"
+            android:layout_height="@dimen/all_users_height"
+            android:layout_marginTop="18dp"
+            android:background="@drawable/round_button"
+            android:text="@string/all_transaction"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/all_users" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
